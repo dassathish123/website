@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    
+background-color: rgb(104, 0, 0);
+    font-style: italic;
+    color: whitesmoke;  
+    
+    text-align: center;
+}
+h2{
+
+
+    background: linear-gradient(45deg,darkgoldenrod,black);
+    padding: 15px;
+    border-radius: 50%;
+    width: 800px;
+    margin: auto;
+
+}
+h1{
+    font-style: oblique;
+    color: aquamarine;
+}
+table{
+    width: 100%;
+
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
